@@ -1,5 +1,5 @@
 //A simple algorithm for bubble sorting an array.
-//i am adding more to this file please add it to the main please omg
+
 public class BubbleSort {
 
     public static void main(String[] args) {
